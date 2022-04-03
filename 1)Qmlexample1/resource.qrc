@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Mainqml.qml</file>
+        <file>MainqmlForm.ui.qml</file>
+    </qresource>
+</RCC>
